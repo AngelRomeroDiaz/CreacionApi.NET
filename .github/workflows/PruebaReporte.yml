@@ -1,0 +1,28 @@
+name: "Análisis SAST con CodeQL"
+
+on:
+  push:
+    branches:
+      - PruebaReporte
+
+jobs:
+  analyze:
+    name: Analizar Código
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Inicializar CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: 'csharp'
+
+      - name: Autobuild de C#
+        uses: github/codeql-action/autobuild@v3
+
+      - name: Ejecutar Análisis
+        uses: github/codeql-action/analyze@v3
