@@ -21,8 +21,11 @@ jobs:
         with:
           languages: 'csharp'
 
-      - name: Autobuild de C#
-        uses: github/codeql-action/autobuild@v3
+      - name: Restaurar dependencias
+        run : dotnet restore
+
+      - name: Compilar proyecto (build explícito)
+        run: dotnet build --configuration Release
 
       - name: Ejecutar Análisis
         uses: github/codeql-action/analyze@v3
