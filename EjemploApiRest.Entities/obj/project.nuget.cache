@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqGvdV1Wzsc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel\\.nuget\\packages\\microsoft.openapi\\3.8.0\\microsoft.openapi.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

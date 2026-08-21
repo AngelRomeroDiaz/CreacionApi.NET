@@ -1,0 +1,6 @@
+@EjemploApiRest.WebApi_HostAddress = http://localhost:5224
+
+GET {{EjemploApiRest.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "EjemploApiRest.WebApi.Controllers.FutbolTeamController",
+    "Method": "Get",
+    "RelativePath": "api/FutbolTeamController",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EjemploApiRest.WebApi.Controllers.FutbolTeamController",
+    "Method": "Save",
+    "RelativePath": "api/FutbolTeamController",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EjemploApiRest.WebApi.DTOs.FutbolTeamDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

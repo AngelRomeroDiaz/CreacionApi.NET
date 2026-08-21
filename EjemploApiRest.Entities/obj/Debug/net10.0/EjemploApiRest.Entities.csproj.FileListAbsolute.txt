@@ -1,0 +1,15 @@
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\bin\Debug\net10.0\EjemploApiRest.Entities.deps.json
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\bin\Debug\net10.0\EjemploApiRest.Entities.dll
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\bin\Debug\net10.0\EjemploApiRest.Entities.pdb
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.AssemblyInfo.cs
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.dll
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\refint\EjemploApiRest.Entities.dll
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.pdb
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\ref\EjemploApiRest.Entities.dll
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\bin\Debug\net10.0\EjemploApiRest.Abstractions.dll
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\bin\Debug\net10.0\EjemploApiRest.Abstractions.pdb
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploApiRest.Entities.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\EjemploApiRest\EjemploApiRest.Entities\obj\Debug\net10.0\EjemploA.0EDDAF5F.Up2Date

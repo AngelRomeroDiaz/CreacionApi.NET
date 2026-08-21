@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="EjemploApiRest.Abstractions/EjemploApiRest.Abstractions.csproj" />
+  <Project Path="EjemploApiRest.Application/EjemploApiRest.Application.csproj" />
+  <Project Path="EjemploApiRest.DataAccess/EjemploApiRest.DataAccess.csproj" />
+  <Project Path="EjemploApiRest.Entities/EjemploApiRest.Entities.csproj" />
+  <Project Path="EjemploApiRest.Repository/EjemploApiRest.Repository.csproj" />
+  <Project Path="EjemploApiRest.Services/EjemploApiRest.Services.csproj" />
+  <Project Path="EjemploApiRest.WebApi/EjemploApiRest.WebApi.csproj" />
+</Solution>
