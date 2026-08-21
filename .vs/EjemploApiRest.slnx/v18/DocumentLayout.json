@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19CBA77-AD76-ADFA-7343-2B8D853D9E53}|EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj|c:\\users\\angel\\documents\\github\\creacionapi.net\\ejemploapirest.webapi\\controllers\\futbolteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19CBA77-AD76-ADFA-7343-2B8D853D9E53}|EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj|solutionrelative:ejemploapirest.webapi\\controllers\\futbolteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19CBA77-AD76-ADFA-7343-2B8D853D9E53}|EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj|c:\\users\\angel\\documents\\github\\creacionapi.net\\ejemploapirest.webapi\\ejemploapirest.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E19CBA77-AD76-ADFA-7343-2B8D853D9E53}|EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj|solutionrelative:ejemploapirest.webapi\\ejemploapirest.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjemploApiRest.WebApi",
+              "DocumentMoniker": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj",
+              "RelativeDocumentMoniker": "EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj",
+              "RelativeToolTip": "EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T05:58:07.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FutbolTeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.WebApi\\Controllers\\FutbolTeamController.cs",
+              "RelativeDocumentMoniker": "EjemploApiRest.WebApi\\Controllers\\FutbolTeamController.cs",
+              "ToolTip": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.WebApi\\Controllers\\FutbolTeamController.cs",
+              "RelativeToolTip": "EjemploApiRest.WebApi\\Controllers\\FutbolTeamController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T05:57:29.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj": {}
+    "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+    "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj",
         "projectName": "EjemploApiRest.Abstractions",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj",
+        "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -351,14 +351,14 @@
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj": {
+    "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj",
         "projectName": "EjemploApiRest.DataAccess",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -380,14 +380,14 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
               },
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
               },
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj"
               }
             }
           }
@@ -718,14 +718,14 @@
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
+    "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj",
         "projectName": "EjemploApiRest.Entities",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj",
+        "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -747,8 +747,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
               }
             }
           }
@@ -1069,14 +1069,14 @@
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj": {
+    "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj",
         "projectName": "EjemploApiRest.Repository",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj",
+        "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Repository\\EjemploApiRest.Repository.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1098,17 +1098,17 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
               },
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj"
               },
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
               },
-              "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
-                "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj"
+              "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
+                "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj"
               }
             }
           }
@@ -1429,14 +1429,14 @@
         }
       }
     },
-    "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
+    "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj",
         "projectName": "EjemploApiRest.Services",
-        "projectPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj",
+        "projectPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj",
         "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel\\source\\repos\\EjemploApiRest\\EjemploApiRest.Services\\obj\\",
+        "outputPath": "C:\\Users\\Angel\\Documents\\GitHub\\CreacionApi.NET\\EjemploApiRest.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
